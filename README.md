@@ -5,7 +5,7 @@
 
 
 | column1 | column2 | column3 |
-| :-----| ----: | :----: |
+| :-----:| :----: | :----: |
 | ↓↓↓ | ↓↓↓ | ↓↓↓ |
 | COPY | START | 1000 |
 | FIRST | STL | RETADR |
