@@ -1,7 +1,5 @@
 # DDK_sysprgm
-* I forgot what the porject did for. 
-* I will check one day.
-* It looks like one funcion use hash table to do something, the other function open a file.
+* One funcion uses hash table to do something, the other function openes a file.
 
 
 | column1 | column2 | column3 |
